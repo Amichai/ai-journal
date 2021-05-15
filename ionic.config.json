@@ -1,0 +1,8 @@
+{
+  "name": "AI Journal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "13eb604a"
+}

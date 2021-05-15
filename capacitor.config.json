@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "AI Journal",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
